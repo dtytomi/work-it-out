@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Work-It-Out</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="blank"/>
+    <string name="enter">Enter</string>
+    <string name="equalSign">=</string>
+    <string name="symbol">+</string>
+    <string name="score">Score</string>
+    <string name="correct">correct!</string>
+    <string name="incorrect_answer">Incorrect!</string>
+</resources>
